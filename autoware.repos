@@ -37,8 +37,8 @@ repositories:
     version: 1e8b6d234e2690c9da386f006bb60835cdccddfd
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: 250562d8bc5234296f6a0eae0d48392b86167b4e
+    url: git@github.com:tier4/autoware.universe_tmp-agnocast.git
+    version: main
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
