@@ -105,7 +105,7 @@ repositories:
     version: e7e25ed52b58b3556fa8b0f75a87f7c5d42fbef1
   sensor_kit/sample_sensor_kit_launch:
     type: git
-    url: https://github.com/tier4/sample_sensor_kit_launch_tmp-agnocast
+    url: git@github.com:tier4/sample_sensor_kit_launch_tmp-agnocast.git
     version: main
   sensor_kit/external/awsim_sensor_kit_launch:
     type: git
