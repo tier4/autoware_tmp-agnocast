@@ -97,8 +97,8 @@ repositories:
     version: de4bf6be79aa2968cf2f62e0ebe1ff8a5797e6ad
   sensor_component/external/nebula:
     type: git
-    url: git@github.com:tier4/nebula_tmp-agnocast.git
-    version: main
+    url: https://github.com/tier4/nebula.git
+    version: d9aaefc9a4c06f6dae86cd7ef22f6353f1379e4f
   sensor_component/external/transport_drivers:
     type: git
     url: https://github.com/MapIV/transport_drivers.git
